@@ -18,10 +18,9 @@ button {
 }
 
 .name-third {
- text-transform:  capitalize;
-}.
-  .text-transform{
-    capitalize}
+  text-transform: capitalize;
+}
+
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -102,8 +101,8 @@ button {
 .main-btn:focus {
   background: #404bbf;
 }
-  
- .name-second {
+
+.name-second {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
