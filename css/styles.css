@@ -16,6 +16,9 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+}
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -71,7 +74,25 @@ a {
   text-align: center;
   color: #fff;
 }
+.main-btn {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+}
 
+.main-btn:hover,
+.main-btn:focus {
+  background: #404bbf;
+}
+.main-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+.main-btn:hover,
+.main-btn:focus
 ./*section-second*/
 
 .name-second {
