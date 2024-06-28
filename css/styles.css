@@ -91,11 +91,12 @@ button {
 }
 
 .main-btn:hover,
-.main-btn:focus
-./*section-second*/
+.main-btn:focus {
+  background: #404bbf;
+}
 
-.section-third {
-  background-color: #f4f4fd;
+.part-thid {
+  background: #f4f4fd;
 }
 .name-second {
   font-size: 36px;
@@ -111,7 +112,7 @@ button {
   color: #434455;
 }
 
-.main-list {
+.main-liteam {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background-color: #ffffff;
