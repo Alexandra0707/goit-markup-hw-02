@@ -81,7 +81,6 @@ button {
   color: #fff;
 }
 .main-btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
 
@@ -119,6 +118,7 @@ button {
 .main-iteam {
   background-color: #ffffff;
 }
+
 .name-third {
   font-weight: 500;
   font-size: 20px;
